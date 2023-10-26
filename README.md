@@ -26,8 +26,6 @@
 <h4 align="center">📚 Frameworks and Libraries</h4>
 
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Loading-white?style=flat-square&color=yellow">
-
 </p>
 
 <h4 align="center">⚙ Software</h4>
@@ -43,8 +41,6 @@
 <h4 align="center">☁ Cloud and Providers</h4>
 
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Loading-white?style=flat-square&color=yellow">
-
 </p>
 
 <br/>
