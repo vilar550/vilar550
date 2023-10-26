@@ -19,7 +19,7 @@
 <p align="center">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-white?style=flat-square&logo=css3&logoColor=white&color=blue">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5&logoColor=white&color=red">
-<img alt="Java" src="https://img.shields.io/badge/Java-white?style=flat-square&logoColor=white&color=red">
+<img alt="Java" src="https://img.shields.io/badge/Java-white?style=flat-square&logoColor=white&color=purple">
 <img alt="Python" src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=white&color=blue">
 </p>
 
