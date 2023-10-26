@@ -23,10 +23,10 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=white&color=blue">
 </p>
 
-<h4 align="center">📚 Frameworks and Libraries</h4>
+<!--<h4 align="center">📚 Frameworks and Libraries</h4>
 
 <p align="center">
-</p>
+</p>-->
 
 <h4 align="center">⚙ Software</h4>
 
@@ -38,9 +38,9 @@
 <a href="#"><img alt="intellijidea" src="https://img.shields.io/badge/Intellij-white?style=flat-square&logo=intellijidea&logoColor=white&color=blue"></a>
 </p>
 
-<h4 align="center">☁ Cloud and Providers</h4>
+<!--<h4 align="center">☁ Cloud and Providers</h4>
 
 <p align="center">
 </p>
 
-<br/>
+<br/>-->
